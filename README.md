@@ -36,16 +36,16 @@ ssh root@{айпи сервера}
 ls
 ```
 
-- вводим:
-
-```powerShell
-chmod + wireguard-install.sh
-```
-
 - ответом должен быть твой файл скрипта
 
 ```powerShell
 ./wireguard-install.sh
+```
+
+- вводим:
+
+```powerShell
+chmod + wireguard-install.sh
 ```
 
 - запустится установка, со всем соглашаемся, нажимая либо Enter, либо прописываем yes, если требуется, как итог - выведется qr код и лог о том, что 
