@@ -36,6 +36,12 @@ ssh root@{айпи сервера}
 ls
 ```
 
+- вводим:
+
+```powerShell
+chmod + wireguard-install.sh
+```
+
 - ответом должен быть твой файл скрипта
 
 ```powerShell
